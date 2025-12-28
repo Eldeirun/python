@@ -1,5 +1,7 @@
 import math
 
+#Circumference of a circle
+
 radius = input("Please input the radius:")
 
 circ = 2*math.pi*float(radius)
