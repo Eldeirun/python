@@ -1,0 +1,10 @@
+import math
+
+#Area of a triangle
+
+base = input("Input base length:")
+height = input("Input height length:")
+
+result = float(base)*float(height)
+
+print(result)
